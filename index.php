@@ -1,3 +1,3 @@
 <?php
 
-echo "prima pagina interatie 0001";
+echo "prima pagina interatie 0002";
